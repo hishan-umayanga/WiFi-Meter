@@ -1,5 +1,8 @@
 # WiFi Meter 🛜
 
+<img width="246" height="68" alt="image" src="https://github.com/user-attachments/assets/ec9317aa-11ff-4571-90dd-0fa0e1b4e35f" />
+
+
 A lightweight, always-on-top Windows desktop widget that monitors real-time network upload/download speeds and tracks cumulative data usage per session.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
