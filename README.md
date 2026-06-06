@@ -135,8 +135,8 @@ This will list all network interfaces, identify Wi-Fi adapters, and verify that 
 
 | Version | Changes |
 |---|---|
-| **v0.2** | Bug fixes, security hardening, docstrings, thread safety, README |
-| **v0.1** | Initial release with core monitoring features |
+| **v1.0** | Bug fixes, security hardening, docstrings, thread safety, README |
+| **v1.1** | Initial release with core monitoring features |
 
 ---
 
